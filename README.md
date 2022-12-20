@@ -1,2 +1,2 @@
 # Python-Exercise
-This is all about python which exercise regularly.
+Practice Python programming skills with the interactive and auto-graded set of exercises.
